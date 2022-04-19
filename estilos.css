@@ -1,0 +1,15 @@
+body{
+    background-color: azure;
+}
+/* PIE DE PÁGINA */
+.pie{
+	display: flex;
+	justify-content: space-evenly;
+	align-items: flex-end;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+/* FIN PIE DE PÁGINA */
